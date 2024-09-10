@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 <h3 align="center">Emerging AI Engineer Focused on Computer Vision Applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitalroar.ae%2Fservices%2Fweb-development-company-dubai-uae&psig=AOvVaw17yvFzJDVxxW2bSNaVjYZP&ust=1726052378640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCFoqicuIgDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://github.com/MHaris2002/MHaris2002/blob/main/web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20views&color=0e75b6&style=flat" alt="mharis2002" /> </p>
 
