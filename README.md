@@ -10,7 +10,7 @@
 
 - 🌱 **I’m learning more advance machine learning techniques.**
 
-- 💬 **Ask me about Python, Deep learning**
+- 💬 **Ask me about Python, Deep learning, Neural Network**
 
 - 📫 **How to reach me malikharis3984@gmail.com**
 
