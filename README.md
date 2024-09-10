@@ -8,11 +8,11 @@
 
 - 🔭 **I’m currently working on project [Assistant AI](https://github.com/MHaris2002/ASSISTANT_AI.git)**
 
-- 🌱 **I’m learning more advance machine learning techniques.**
+- 🌱 **I'm currently advancing my expertise in cutting-edge machine learning techniques.**
 
-- 💬 **Ask me about Python, Deep learning, Neural Network**
+- 💬 **Feel free to ask me about Python, deep learning, or neural networks—I'm well-versed in these areas and happy to assist with any inquiries.**
 
-- 📫 **How to reach me malikharis3984@gmail.com**
+- 📫 **You can reach me at malikharis3984@gmail.com for any inquiries or further communication.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
