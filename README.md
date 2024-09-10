@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20views&color=0e75b6&style=flat" alt="mharis2002" /> </p>
 
-- 🔭 I’m currently working on project [Assistant AI](https://github.com/MHaris2002/ASSISTANT_AI.git)
+- 🔭 **I’m currently working on project [Assistant AI](https://github.com/MHaris2002/ASSISTANT_AI.git)**
 
-- 🌱 I’m learning more **advance machine learning techniques.**
+- 🌱 **I’m learning more advance machine learning techniques.**
 
-- 💬 Ask me about **Python, Deep learning**
+- 💬 **Ask me about Python, Deep learning**
 
-- 📫 How to reach me **malikharis3984@gmail.com**
+- 📫 **How to reach me malikharis3984@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
