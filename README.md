@@ -8,9 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20views&color=0e75b6&style=flat" alt="mharis2002" /> </p>
 
-- 🔭 **I’m currently working on a project called [Assistant AI](https://github.com/MHaris2002/ASSISTANT_AI.git) which focuses on developing an intelligent assistant system.**
-
 - 🌱 **I'm currently advancing my expertise in cutting-edge machine learning techniques.**
+
+- 🔭 **Explore my projects here:**
+
+  - [ASSISTANT_AI](https://github.com/MHaris2002/ASSISTANT_AI.git)
+  - [Cars_license_Plate_Recognition_using_YOLOv8](https://github.com/MHaris2002/Cars_license_Plate_Recognition_using_YOLOv8.git)
 
 - 💬 **Feel free to ask me about Python, deep learning, or neural networks—I'm well-versed in these areas and happy to assist with any inquiries.**
 
