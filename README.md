@@ -14,6 +14,7 @@
 
   - [ASSISTANT_AI](https://github.com/MHaris2002/ASSISTANT_AI.git)
   - [Cars_license_Plate_Recognition_using_YOLOv8](https://github.com/MHaris2002/Cars_license_Plate_Recognition_using_YOLOv8.git)
+  - [MedFlowAI- Full Stack Development](https://github.com/MHaris2002/mediflow-ai.git)
 
 - 💬 **Feel free to ask me about Python, deep learning, or neural networks—I'm well-versed in these areas and happy to assist with any inquiries.**
 
