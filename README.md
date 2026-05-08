@@ -9,13 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20views&color=0e75b6&style=flat" alt="mharis2002" /> </p>
 
-- 🤖 **Currently building:** Agentic AI systems for medical image analysis as part of my MSc dissertation at Northumbria University.
-
 - 🌱 **Advancing my expertise in:** Agentic AI, Vision Transformers, LLM Pipelines, and Multi-Agent Orchestration.
 
 - 🔭 **Explore my projects:**
 
-  - [🏥 Cancer Detection Agentic System](https://github.com/MHaris2002/cancer-detection-agentic.git)
+  - [🏥 Cancer Detection Agentic System](https://github.com/MHaris2002/cancer-detection-agentic.git) — ViT Router + 4-Agent LLM Pipeline
   - [MedFlowAI — Full Stack Development](https://github.com/MHaris2002/mediflow-ai.git)
   - [ASSISTANT_AI](https://github.com/MHaris2002/ASSISTANT_AI.git)
   - [Cars License Plate Recognition using YOLOv8](https://github.com/MHaris2002/Cars_license_Plate_Recognition_using_YOLOv8.git)
