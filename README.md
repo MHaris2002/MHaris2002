@@ -13,7 +13,7 @@
 
 - 🔭 **Explore my projects:**
 
-  - [🏥 Cancer Detection Agentic System](https://github.com/MHaris2002/cancer-detection-agentic.git) — ViT Router + 4-Agent LLM Pipeline
+  - [🏥 Cancer Detection Agentic System](https://github.com/MHaris2002/cancer-detection-agentic.git)
   - [MedFlowAI — Full Stack Development](https://github.com/MHaris2002/mediflow-ai.git)
   - [ASSISTANT_AI](https://github.com/MHaris2002/ASSISTANT_AI.git)
   - [Cars License Plate Recognition using YOLOv8](https://github.com/MHaris2002/Cars_license_Plate_Recognition_using_YOLOv8.git)
