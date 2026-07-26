@@ -13,6 +13,7 @@
 
 - 🌱 **Advancing my expertise in:** Agentic AI, Vision Transformers, LLM Pipelines, and Multi-Agent Orchestration.
 - 🔭 **Explore my projects:**
+  - [AML Transaction Monitoring & SAR Drafting Assistant](https://github.com/MHaris2002/aml-sar-assistant.git)
   - [PlateCheck – AI-Powered Vehicle Due-Diligence Automation](https://github.com/MHaris2002/vehicle_history_check.git)
   - [Cancer Detection Agentic System](https://github.com/MHaris2002/cancer-detection-agentic.git)
   - [MedFlowAI – Full Stack Development](https://github.com/MHaris2002/mediflow-ai.git)
