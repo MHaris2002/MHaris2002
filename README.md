@@ -217,9 +217,9 @@ Modules: Machine Learning on Cloud · Information Governance & Cyber Security ·
 **BSc Electrical Engineering** — Comsats University, Pakistan *(2020–2024, 2:1)*
 
 <p>
-<img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization%20(Stanford%20%26%20DeepLearning.AI)-0056D2?style=flat-square&logo=coursera&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Coursera-The%20Data%20Scientist's%20Toolbox%20(Johns%20Hopkins)-0056D2?style=flat-square&logo=coursera&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Coursera-Google%20Project%20Management-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+<a href="https://coursera.org/verify/specialization/HBQ1DRJ0ZDSW"><img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization%20(Stanford%20%26%20DeepLearning.AI)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
+<a href="https://www.coursera.org/account/accomplishments/verify/8WXSPG3QU9BW"><img src="https://img.shields.io/badge/Coursera-The%20Data%20Scientist's%20Toolbox%20(Johns%20Hopkins)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
+<a href="https://coursera.org/verify/professional-cert/1KPY58SYEROK"><img src="https://img.shields.io/badge/Coursera-Google%20Project%20Management-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
 </p>
 
 <br/>
