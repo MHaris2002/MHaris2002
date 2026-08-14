@@ -6,7 +6,7 @@
 
 ## Muhammad Haris — AI Engineer &nbsp;|&nbsp; AI Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Agentic+AI+%26+LLM+Pipelines;Computer+Vision+%26+Medical+AI+Research;MSc+AI+Technology+%C2%B7+Distinction+%C2%B7+Northumbria+University;Author+%7C+Researcher+%7C+Full-Stack+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Agentic+AI+%26+LLM+Pipelines;Computer+Vision+%26+Medical+AI+Research;Author+%7C+Researcher+%7C+Full-Stack+ML+Engineer)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
