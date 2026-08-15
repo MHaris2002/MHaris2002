@@ -6,7 +6,7 @@
 
 ## Muhammad Haris — AI Engineer &nbsp;|&nbsp; AI Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Agentic+AI+%26+LLM+Pipelines;Computer+Vision+%26+Medical+AI+Research;Author+%7C+Researcher+%7C+Full-Stack+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Agentic+AI+%26+LLM+Pipelines;Computer+Vision+%26+Medical+AI+Research;MSc+AI+Technology+%C2%B7+Distinction+%C2%B7+Northumbria+University;Author+%7C+Researcher+%7C+Full-Stack+ML+Engineer)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mharis2002&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
@@ -217,9 +217,9 @@ Modules: Machine Learning on Cloud · Information Governance & Cyber Security ·
 **BSc Electrical Engineering** — Comsats University, Pakistan *(2020–2024, 2:1)*
 
 <p>
-<a href="https://coursera.org/verify/specialization/HBQ1DRJ0ZDSW"><img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization%20(Stanford%20%26%20DeepLearning.AI)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
-<a href="https://www.coursera.org/account/accomplishments/verify/8WXSPG3QU9BW"><img src="https://img.shields.io/badge/Coursera-The%20Data%20Scientist's%20Toolbox%20(Johns%20Hopkins)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
-<a href="https://coursera.org/verify/professional-cert/1KPY58SYEROK"><img src="https://img.shields.io/badge/Coursera-Google%20Project%20Management-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
+<a href="PASTE_CERTIFICATE_LINK_1_HERE"><img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization%20(Stanford%20%26%20DeepLearning.AI)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
+<a href="PASTE_CERTIFICATE_LINK_2_HERE"><img src="https://img.shields.io/badge/Coursera-The%20Data%20Scientist's%20Toolbox%20(Johns%20Hopkins)-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a><br/>
+<a href="PASTE_CERTIFICATE_LINK_3_HERE"><img src="https://img.shields.io/badge/Coursera-Google%20Project%20Management-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -228,7 +228,7 @@ Modules: Machine Learning on Cloud · Information Governance & Cyber Security ·
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mharis2002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=mharis2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
 </p>
 
 <p align="center">
