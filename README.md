@@ -227,12 +227,12 @@ Modules: Machine Learning on Cloud · Information Governance & Cyber Security ·
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mharis2002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-zeta-gold-16.vercel.app/api?username=mharis2002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=mharis2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharis2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-zeta-gold-16.vercel.app/api/top-langs/?username=mharis2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mharis2002&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166" height="165"/>
 </p>
 
